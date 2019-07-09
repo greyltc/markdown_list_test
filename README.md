@@ -3,16 +3,16 @@ testing markdown list rendering
 
 ## A list
 Here is my list:
-1) item 1
-1) item 2
+1. item 1
+1. item 2
     - item 2, point 1
     - item 2, point 3
     - item 2, point 3
-1) item 3
+1. item 3
 
 ## Another list
-1) item 1
-1) item 2
-1) item 3
-1) item 4
+1. item 1
+1. item 2
+1. item 3
+1. item 4
 ## Next section
